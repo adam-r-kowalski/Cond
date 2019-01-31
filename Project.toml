@@ -1,0 +1,10 @@
+name = "Cond"
+uuid = "a8619b20-2582-11e9-0c14-3f04784db06c"
+authors = ["Adam Kowalski <adam.kowalski.work@gmail.com>"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
